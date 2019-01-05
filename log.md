@@ -20,3 +20,11 @@ Day 1/100 was yesterday
 -->
 
 **Link to tweet**: https://twitter.com/FGnadekpa/status/1081302198976503808
+
+### Day 3/100: January 05, 2019
+**Today's progress**: Take the reactjs.org intro's option 2 tutorial until finishing overview's section. Also inspect components with React DevTools for Chrome
+
+**Thoughts**: Keep going on step-by-step. Next: complete, install the extension for Firefox
+
+**Link to [React Devtools extension for Mozilla](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+
