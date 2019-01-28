@@ -26,8 +26,14 @@ Day 1/100 was yesterday
 
 **Thoughts**: Keep going on step-by-step. Next: complete, install the extension for Firefox
 
-**Link** 
+**Links** 
 1. [React Devtools extension for Mozilla](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 2. [React intro's turial](https://reactjs.org/tutorial/tutorial.html)
 
 
+### Day 4/100: January 31, 2018
+**Today's progress**: Start adaptation of the Random Quote Machine build earlier with only HTML, CSS & JS to React on [Scrimba](https://scrimba.com)
+
+**Thoughts** Scrimba is really great and React save time
+
+**Link**: [Random Quote Machine Start](https://scrimba.com/c/cwpd2KHw) 
