@@ -1,30 +1,39 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - [My Progress](/log.md)
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1/100: January 03, 2019
+<!--
+Day 1/100 was yesterday
+-->
+**Today's Progress**: Filled #US1 to #US7
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** The older version fullfilled the requirements. It was useful.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to older version:** [Tribute page](https://fleuronvilik.github.io/tribute-page)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2/100: January 04, 2019
+**Today's Progress**: I complete two challenges. Redux section is completed.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: To do again. Time between leaving and coming back, I have forgotten somethings.
+<!--
+0. **CSS HOW-TO**: [By Rachel Andrew](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+1. **MDN HACKS MUST READ**: [Top Ten](https://hacks.mozilla.org/2018/12/mozilla-hacks-10-most-read-posts-of-2018/)
+-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to tweet**: https://twitter.com/FGnadekpa/status/1081302198976503808
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3/100: January 05, 2019
+**Today's progress**: Take the reactjs.org intro's option 2 tutorial until finishing overview's section. Also inspect components with React DevTools for Chrome
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Keep going on step-by-step. Next: complete, install the extension for Firefox
+
+**Links**
+1. [React Devtools extension for Mozilla](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+2. [React intro's turial](https://reactjs.org/tutorial/tutorial.html)
 
 
-### Day 1: June 27, Monday
+### Day 4/100: January 31, 2018
+**Today's progress**: Start adaptation of the Random Quote Machine build earlier with only HTML, CSS & JS to React on [Scrimba](https://scrimba.com)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts** Scrimba is really great and React save time
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link**: [Random Quote Machine Start](https://scrimba.com/c/cwpd2KHw) 
