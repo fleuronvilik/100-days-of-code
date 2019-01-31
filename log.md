@@ -26,7 +26,7 @@ Day 1/100 was yesterday
 
 **Thoughts**: Keep going on step-by-step. Next: complete, install the extension for Firefox
 
-**Links** 
+**Links**
 1. [React Devtools extension for Mozilla](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 2. [React intro's turial](https://reactjs.org/tutorial/tutorial.html)
 
