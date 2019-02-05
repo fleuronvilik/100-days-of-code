@@ -31,9 +31,14 @@ Day 1/100 was yesterday
 2. [React intro's turial](https://reactjs.org/tutorial/tutorial.html)
 
 
-### Day 4/100: January 31, 2018
+### Day 4/100: January 31, 2019
 **Today's progress**: Start adaptation of the Random Quote Machine build earlier with only HTML, CSS & JS to React on [Scrimba](https://scrimba.com)
 
 **Thoughts** Scrimba is really great and React save time
 
 **Link**: [Random Quote Machine Start](https://scrimba.com/c/cwpd2KHw) 
+
+### Day 5/100: February 05, 2019
+**Today's progress**: Build the Markdown Previewer
+
+**Link**: [Markdown Previewer](https://scrimba.com/c/cwpdgguz)
