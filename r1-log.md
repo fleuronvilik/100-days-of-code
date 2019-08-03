@@ -7,3 +7,4 @@ The log of my #100DaysOfCode challenge. Started on [July 31, Wednesday, 2019].
 3. Take the [Introduction to CSS on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
   * [Debugging CSS](https://scrimba.com/c/c4GbGQum)
   * [Assessment](https://scrimba.com/c/cJ4N4Pt2)
+4. Finish styling text on MDN and complete the assessment: Typesetting a Community School [homepage](https://scrimba.com/c/czNRMRUP)
